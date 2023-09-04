@@ -30,5 +30,3 @@ const sendEmail = async(options) => {
 export default sendEmail;
 
 
-
-//ihlb786@gmail.com

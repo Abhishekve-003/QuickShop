@@ -2,7 +2,7 @@ html{
     font-size: 62.5%;
 }
 .banner{
-    background-image: linear-gradient(to right, #635dc0, #3027ae);
+    background-image: linear-gradient(to right,rgb(0, 0, 249), rgb(177, 0, 193), #6156ff, #080156);
     height: 100vh;
     text-align: center;
     overflow-x: hidden;

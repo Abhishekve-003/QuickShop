@@ -82,7 +82,7 @@ const ProductDetails = () => {
 
     return(
         <Fragment>
-            <MetaData  title={`${product.name} -- ECOMMERCE`}/>
+            <MetaData  title={`${product.name} -- QuickShop`}/>
             {loading? <Loader /> : (
                 <Fragment>
                 <div className="ProductDetails">

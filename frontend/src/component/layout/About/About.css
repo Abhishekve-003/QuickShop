@@ -32,6 +32,10 @@
     color: rgb(78,81,255);
     font-weight: 600;
 }
+.insta{
+    color: purple;
+    
+}
 .aboutPageContainer > div{
     display: flex;
     width: 100%;
@@ -74,6 +78,12 @@
     font-size: 6rem;
     color: rgb(78,81,255);
     cursor: pointer;
+}
+.insta >a > svg{
+    font-size: 6rem;
+    color: rgb(188, 22, 188);
+    cursor: pointer;
+    
 }
 @media (max-width:768px) {
     .aboutPageContainer{

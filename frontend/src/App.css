@@ -3,6 +3,8 @@
     scroll-behavior: smooth;
     box-sizing: border-box;
   }
+
+ 
   
   /* Chrome, Safari, Opera, Edge */
   input::-webkit-outer-spin-button,

@@ -7,8 +7,8 @@ const Contact = () => {
     return(
         <div className='contactPage'>
             <MetaData title="Contact Page"/>
-            <a className='mailBtn' href="mailto:q5500407@gmail.com">
-                <Button>Contact: q5500407@gmail.com</Button>
+            <a className='mailBtn' href="abhishekve0010@gmail.com">
+                <Button>Contact: abhishekve0010@gmail.com</Button>
             </a>
         </div>
     );

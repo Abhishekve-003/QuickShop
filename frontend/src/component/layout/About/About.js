@@ -1,13 +1,13 @@
 import React from 'react';
 import "./About.css";
 import LinkedInIcon from "@mui/icons-material/LinkedIn";
-import PersonIcon from "@mui/icons-material/Person";
+import Instagram from "@mui/icons-material/Instagram";
 import { Avatar, Button, Typography } from '@mui/material';
-import founder from "../../../images/founder.png";
+import founder from "../../../images/founder.jpeg";
 
 const About = () => {
     const visitUpwork = () => {
-        window.location = "https://www.linkedin.com/in/qurat-ul-ain-228609213/";
+        window.location = "https://www.linkedin.com/in/abhishekverma001/";
     }
     return(
         <div>
@@ -23,14 +23,18 @@ const About = () => {
                             src={founder} 
                             alt='Founder'
                         />
-                        <Typography>Qurat Ul Ain</Typography>
-                        <Button onClick={visitUpwork}>Visit Upwork Profile</Button>
+                        <Typography>Abhishek Verma</Typography>
+                        <Button onClick={visitUpwork}>Visit LinkedIn Profile</Button>
                         <span>This is a MERN Stack Ecommerce Responsive Website, that I have created using React for frontend, redux for state management, Mongodb as database, and Node Js and Express for backend. This app contains all the latest features. I have also integrated stripe payment gateway in this app.</span>
                     </div>
                     <div className='aboutPageContainer2'>
                         <Typography component="h2">Contact Links</Typography>
-                        <a href='https://www.linkedin.com/in/qurat-ul-ain-228609213/' target='blank'><LinkedInIcon /></a>
-                        <a href='https://www.upwork.com/freelancers/~01a84faf07c15d6b11' target='blank'><PersonIcon/></a>
+                        <a href='https://www.linkedin.com/in/abhishekverma001/' target='blank'><LinkedInIcon /></a>
+                       <div className='insta'>
+                       <a href='https://www.instagram.com/_abhishek_.verma._/'
+                        target='blank'><Instagram/></a>
+                       </div>
+                       
                     </div>
                 </div>
             </div>

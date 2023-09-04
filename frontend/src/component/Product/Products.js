@@ -58,7 +58,7 @@ const Products = () => {
     return(
         <div>
             <Fragment>
-                <MetaData  title="PRODUCTS -- ECOMMERCE"/>
+                <MetaData  title="PRODUCTS -- QuickShop"/>
                 {loading ? (
                     <Loader />
                 ) : (
