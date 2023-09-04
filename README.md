@@ -1,7 +1,6 @@
-## Install Dependencies
-**For Backend** - npm i
-**For Frontend** - cd frontend   
-                   npm i
+## Link
+https://drab-gray-boot.cyclic.app/
+
 
 ## Env Variables
 Create a config.env file in backend/config directory and add following variables:
