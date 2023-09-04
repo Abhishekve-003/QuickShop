@@ -22,6 +22,3 @@ CLOUDINARY_API_KEY=
 CLOUDINARY_API_SECRET=
 Note: Fill each field with your information respectively.
 
-## About Me
-**Upwork** Click [Here](https://www.upwork.com/freelancers/~01a84faf07c15d6b11) **q5500407@gmail.com**
-**LinkedIn** Click [Here](https://www.linkedin.com/in/qurat-ul-ain-228609213/)  **sajidquratulain6@gmail.com**
